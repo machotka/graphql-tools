@@ -2,6 +2,10 @@
 
 ### VNEXT
 
+* ...
+
+### v2.7.3
+
 * When concatenating errors maintain a reference to the original for use downstream [Issue #480](https://github.com/apollographql/graphql-tools/issues/480) [PR TODO]
 
 ### v2.7.2
